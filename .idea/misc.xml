@@ -14,11 +14,13 @@
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/activity_login.xml" value="0.13496376811594202" />
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/activity_login2.xml" value="0.2" />
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/activity_sign_in.xml" value="0.20677083333333332" />
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/activity_sign_up.xml" value="0.152" />
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/activity_user.xml" value="0.24728260869565216" />
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/item__container_user.xml" value="0.25416666666666665" />
-        <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/item_container.xml" value="0.1" />
+        <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/item_container.xml" value="0.2" />
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/item_container_received.xml" value="0.144" />
+        <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/item_container_recent_conversion.xml" value="0.20677083333333332" />
         <entry key="..\:/MyProject/Chat App/app/src/main/res/layout/item_container_sent_message.xml" value="0.1171875" />
       </map>
     </option>

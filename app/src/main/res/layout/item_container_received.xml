@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     >
 
@@ -23,8 +24,12 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="4dp"
         android:background="@drawable/bg_send_message"
-        android:padding="12dp"
-        android:textColor="@color/black"
+        android:paddingStart="12dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="12dp"
+        android:paddingBottom="10dp"
+        android:textColor="@color/white"
+        app:layout_constraintWidth_max="wrap"
         android:textSize="13dp"
         app:layout_constraintStart_toEndOf="@+id/imageProfile"
         app:layout_constraintTop_toTopOf="parent"
@@ -35,6 +40,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:id="@+id/textDateTime"
+        android:textColor="@color/black"
+        android:textSize="10dp"
         app:layout_constraintStart_toStartOf="@id/textMessage"
         app:layout_constraintTop_toBottomOf="@id/textMessage"
 

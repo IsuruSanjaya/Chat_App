@@ -50,7 +50,7 @@ public class Sign_up extends AppCompatActivity {
     }
 
     private void setListeners() {
-        binding.gotoLogin.setOnClickListener(view -> startActivity(new Intent(getApplicationContext(), Sign_up.class)));
+        binding.gotoLogin.setOnClickListener(view -> startActivity(new Intent(getApplicationContext(), Sign_inActivity.class)));
         binding.registerBtn.setOnClickListener(view -> {
             signUp();
         });
